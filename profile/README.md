@@ -3,7 +3,7 @@
 Process in Chains is a collective of computing scientists whose research covers **process science**, **decentralized architectures**, and **confidential computing**.
 
 Core contributors are
-[apwbs](https://github.com/apwbs/),
+[APWBS](https://github.com/apwbs/),
 [Cecilia Iacometta](https://github.com/ceciliaiacometta),
 [Claudio Di Ciccio](https://github.com/cdc08x),
 [Davide Basile](https://github.com/dave0909),
