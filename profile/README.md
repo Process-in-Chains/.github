@@ -7,10 +7,9 @@ Core contributors are
 [Cecilia Iacometta](https://github.com/ceciliaiacometta),
 [Claudio Di Ciccio](https://github.com/cdc08x),
 [Davide Basile](https://github.com/dave0909),
-[Valerio Goretti](https://github.com/ValerioGoretti),
 [IReallyLikeYourPants](https://github.com/IReallyLikeYourPants),
-and
-[Luca Barbaro](https://github.com/l2brb).
+[Luca Barbaro](https://github.com/l2brb), and
+[Valerio Goretti](https://github.com/ValerioGoretti).
 
 <!--
 
