@@ -1,6 +1,6 @@
 ## Process in Chains
 
-Process in Chains is a collective of computing scientists whose research covers **process science**, **decentralized architectures**, and **confidential computing**.
+Process in Chains is a collective of computing scientists whose research covers **autoamted reasoning**, **decentralized architectures**, and **confidential computing** with a special application focus on process science and blockchain technologies.
 
 Core contributors are
 [APWBS](https://github.com/apwbs/),
