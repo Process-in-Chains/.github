@@ -11,11 +11,13 @@ Core contributors are
 [Luca Barbaro](https://github.com/l2brb), and
 [Valerio Goretti](https://github.com/ValerioGoretti).
 
-Our research spans topics including:
+<!--Our research spans topics including:
 - declarative process mining and automated reasoning on event data
 - privacy-preserving process analytics
 - blockchain-based process-aware information systems
-- decentralized governance and oracle-based architectures
+- decentralized governance and oracle-based architectures-->
+
+Our research investigates how modern decentralized and privacy-preserving technologies can support the design and analysis of complex information systems. In particular, we study methods for **declarative process mining and automated reasoning on event data**, develop techniques for **privacy-preserving process analytics**, design **blockchain-based process-aware information systems**, and explore architectures for **decentralized governance and oracle-based infrastructures** that enable trustworthy data exchange across distributed environments.
 
 ### Projects
 
