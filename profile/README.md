@@ -21,13 +21,13 @@ Our research spans topics including:
 
 Some of the research prototypes and frameworks developed within this organization include:
 
-- **MINERful** – an open-source toolkit for declarative process mining, supporting automated discovery, simplification, simulation, and conformance analysis of process constraints.
+- **[MINERful](https://github.com/Process-in-Chains/MINERful)** – an open-source toolkit for declarative process mining, supporting automated discovery, simplification, simulation, and conformance analysis of process constraints.
 
-- **CONFINE** – a framework for confidentiality-preserving process mining that leverages trusted execution environments to enable secure analysis of sensitive event logs.
+- **[CONFINE](https://github.com/Process-in-Chains/CONFINE)** – a framework for confidentiality-preserving process mining that leverages trusted execution environments to enable secure analysis of sensitive event logs.
 
-- **CONFETTY** – an architecture for blockchain-based process-aware information systems that balances transparency and confidentiality through smart contracts and attribute-based encryption.
+- **[CONFETTY](https://github.com/Process-in-Chains/CONFETTY)** – an architecture for blockchain-based process-aware information systems that balances transparency and confidentiality through smart contracts and attribute-based encryption.
 
-- **Decentralized Oracles** – mechanisms to securely integrate external data sources into decentralized process infrastructures and blockchain-based workflows.
+- **[Decentralized Oracles](https://github.com/Process-in-Chains/DecentralizedOracles)** – mechanisms to securely integrate external data sources into decentralized process infrastructures and blockchain-based workflows.
 
 
 <!--
