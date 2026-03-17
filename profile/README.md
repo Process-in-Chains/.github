@@ -17,7 +17,7 @@ Core contributors are
 - blockchain-based process-aware information systems
 - decentralized governance and oracle-based architectures-->
 
-Our research investigates how modern decentralized and privacy-preserving technologies can support the design and analysis of complex information systems. In particular, we study methods for **declarative process mining and automated reasoning on event data**, develop techniques for **privacy-preserving process analytics**, design **blockchain-based process-aware information systems**, and explore architectures for **decentralized governance and oracle-based infrastructures** that enable trustworthy data exchange across distributed environments.
+Our research investigates how modern decentralized and privacy-preserving technologies can support the design and analysis of complex information systems. In particular, we study methods for **declarative process mining** and **automated reasoning on event data**, develop techniques for **privacy-preserving process analytics**, design **blockchain-based process-aware information systems**, and explore architectures for **decentralized governance and oracle-based infrastructures** that enable trustworthy data exchange across distributed environments.
 
 ### Projects
 
